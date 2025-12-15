@@ -7,8 +7,7 @@ Predict-Grant-Applications
 
 Цель — по табличным данным о заявке (характеристики проекта, исследователей, финансирования и т.п.) предсказать, будет ли грант **одобрен** (`Grant.Status = 1`) или **отклонён** (`Grant.Status = 0`).
 
-Ссылка на соревнование Kaggle:  
-`https://www.kaggle.com/competitions/unimelb/overview`
+Ссылка на соревнование Kaggle: https://www.kaggle.com/competitions/unimelb/overview
 
 ## Структура проекта
 
@@ -32,8 +31,7 @@ Predict-Grant-Applications
 - `/home/darinka/projects/Predict-Grant-Applications/data/unimelb_training.csv`
 - `/home/darinka/projects/Predict-Grant-Applications/data/unimelb_test.csv`
 
-Их можно скачать со страницы соревнования Kaggle (раздел **Data**):  
-`https://www.kaggle.com/competitions/unimelb/data`
+Их можно скачать со страницы соревнования Kaggle (раздел **Data**): https://www.kaggle.com/competitions/unimelb/data
 
 После скачивания:
 
