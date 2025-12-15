@@ -9,6 +9,17 @@ Predict-Grant-Applications
 
 Ссылка на соревнование Kaggle: https://www.kaggle.com/competitions/unimelb/overview
 
+## Результаты экспериментов
+
+| Метод | ROC-AUC |
+|-------|---------------|
+| LAMA 1 | 0.9613 |
+| LAMA 2 | 0.9621 |
+| Логистическая регрессия | 0.6218 |
+| Random Forest | 0.9410 |
+| k-Nearest Neighbours | 0.6717|
+
+
 ## Структура проекта
 
 - **`data/`**: данные соревнования.
