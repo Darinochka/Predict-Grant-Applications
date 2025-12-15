@@ -28,8 +28,8 @@ Predict-Grant-Applications
 
 Локально данные ожидаются в папке:
 
-- `/home/{user}/projects/Predict-Grant-Applications/data/unimelb_training.csv`
-- `/home/{user}/projects/Predict-Grant-Applications/data/unimelb_test.csv`
+- `Predict-Grant-Applications/data/unimelb_training.csv`
+- `Predict-Grant-Applications/data/unimelb_test.csv`
 
 Их можно скачать со страницы соревнования Kaggle (раздел **Data**): https://www.kaggle.com/competitions/unimelb/data
 
@@ -43,7 +43,7 @@ Predict-Grant-Applications
 Проект использует **Poetry**.
 
 1. Установить Poetry
-2. В корне проекта `/home/{user}/projects/Predict-Grant-Applications` выполнить:
+2. В корне проекта `Predict-Grant-Applications` выполнить:
 
 ```bash
 poetry install
@@ -56,7 +56,7 @@ poetry install
 1. Перейти в корень проекта:
 
 ```bash
-cd /home/{user}/projects/Predict-Grant-Applications
+cd Predict-Grant-Applications
 ```
 
 2. Активировать окружение Poetry:
